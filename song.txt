@@ -1,2 +1,4 @@
 song song 
 text tetx text
+lyrics lyrics
+words words

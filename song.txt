@@ -8,3 +8,5 @@ some new lines
 
 sialalala 
 tralalalal
+
+added new lines to branch feature
